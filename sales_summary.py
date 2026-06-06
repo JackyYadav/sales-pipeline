@@ -8,3 +8,6 @@ average = total / len(data)
 
 print(f"Total Sales: {total}")
 print(f"Average Sale: {average}")
+
+max_sale = max(data)
+print(f"Highest Sale: {max_sale}")
